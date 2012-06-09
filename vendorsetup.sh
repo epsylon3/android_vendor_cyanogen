@@ -32,6 +32,7 @@ add_lunch_combo cyanogen_glacier-eng
 add_lunch_combo cyanogen_hallon-eng
 add_lunch_combo cyanogen_hero-eng
 add_lunch_combo cyanogen_heroc-eng
+add_lunch_combo cyanogen_i9103-eng
 add_lunch_combo cyanogen_inc-eng
 add_lunch_combo cyanogen_iyokan-eng
 add_lunch_combo cyanogen_jordan-eng
